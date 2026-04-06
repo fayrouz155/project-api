@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 14 Pro",
+    "price": 42000,
+    "category": "mobile",
+    "brand": "Apple",
+    "image": "https://via.placeholder.com/200",
+    "description": "A16 chip, 128GB storage"
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S23",
+    "price": 30000,
+    "category": "mobile",
+    "brand": "Samsung",
+    "image": "https://via.placeholder.com/200",
+    "description": "Snapdragon processor, AMOLED display"
+  },
+  {
+    "id": 3,
+    "name": "Xiaomi Redmi Note 12",
+    "price": 9000,
+    "category": "mobile",
+    "brand": "Xiaomi",
+    "image": "https://via.placeholder.com/200",
+    "description": "Affordable with great battery"
+  },
+  {
+    "id": 4,
+    "name": "MacBook Air M2",
+    "price": 55000,
+    "category": "laptop",
+    "brand": "Apple",
+    "image": "https://via.placeholder.com/200",
+    "description": "Lightweight with M2 chip"
+  },
+  {
+    "id": 5,
+    "name": "Dell XPS 13",
+    "price": 48000,
+    "category": "laptop",
+    "brand": "Dell",
+    "image": "https://via.placeholder.com/200",
+    "description": "Premium ultrabook"
+  },
+  {
+    "id": 6,
+    "name": "HP Pavilion",
+    "price": 25000,
+    "category": "laptop",
+    "brand": "HP",
+    "image": "https://via.placeholder.com/200",
+    "description": "Great for students"
+  },
+  {
+    "id": 7,
+    "name": "Lenovo IdeaPad 3",
+    "price": 22000,
+    "category": "laptop",
+    "brand": "Lenovo",
+    "image": "https://via.placeholder.com/200",
+    "description": "Affordable everyday laptop"
+  },
+  {
+    "id": 8,
+    "name": "iPad 10th Gen",
+    "price": 20000,
+    "category": "tablet",
+    "brand": "Apple",
+    "image": "https://via.placeholder.com/200",
+    "description": "Powerful tablet for work and play"
+  },
+  {
+    "id": 9,
+    "name": "Samsung Galaxy Tab S8",
+    "price": 18000,
+    "category": "tablet",
+    "brand": "Samsung",
+    "image": "https://via.placeholder.com/200",
+    "description": "Android tablet with S Pen"
+  },
+  {
+    "id": 10,
+    "name": "Huawei MatePad",
+    "price": 14000,
+    "category": "tablet",
+    "brand": "Huawei",
+    "image": "https://via.placeholder.com/200",
+    "description": "Great display and battery"
+  },
+  {
+    "id": 11,
+    "name": "iPad Pro M2",
+    "price": 35000,
+    "category": "ipad",
+    "brand": "Apple",
+    "image": "https://via.placeholder.com/200",
+    "description": "High performance tablet"
+  },
+  {
+    "id": 12,
+    "name": "Apple Watch Series 9",
+    "price": 15000,
+    "category": "smartwatch",
+    "brand": "Apple",
+    "image": "https://via.placeholder.com/200",
+    "description": "Health tracking smartwatch"
+  },
+  {
+    "id": 13,
+    "name": "Samsung Galaxy Watch 6",
+    "price": 12000,
+    "category": "smartwatch",
+    "brand": "Samsung",
+    "image": "https://via.placeholder.com/200",
+    "description": "Fitness and smart features"
+  },
+  {
+    "id": 14,
+    "name": "Xiaomi Smart Band 8",
+    "price": 2000,
+    "category": "smartwatch",
+    "brand": "Xiaomi",
+    "image": "https://via.placeholder.com/200",
+    "description": "Budget fitness tracker"
+  },
+  {
+    "id": 15,
+    "name": "Asus ROG Laptop",
+    "price": 60000,
+    "category": "laptop",
+    "brand": "Asus",
+    "image": "https://via.placeholder.com/200",
+    "description": "Gaming laptop high performance"
+  },
+  {
+    "id": 16,
+    "name": "Realme GT Mobile",
+    "price": 15000,
+    "category": "mobile",
+    "brand": "Realme",
+    "image": "https://via.placeholder.com/200",
+    "description": "Fast performance phone"
+  },
+  {
+    "id": 17,
+    "name": "Oppo Reno 8",
+    "price": 17000,
+    "category": "mobile",
+    "brand": "Oppo",
+    "image": "https://via.placeholder.com/200",
+    "description": "Great camera phone"
+  },
+  {
+    "id": 18,
+    "name": "Lenovo Tab M10",
+    "price": 10000,
+    "category": "tablet",
+    "brand": "Lenovo",
+    "image": "https://via.placeholder.com/200",
+    "description": "Budget tablet"
+  },
+  {
+    "id": 19,
+    "name": "Microsoft Surface Laptop",
+    "price": 52000,
+    "category": "laptop",
+    "brand": "Microsoft",
+    "image": "https://via.placeholder.com/200",
+    "description": "Elegant and powerful"
+  },
+  {
+    "id": 20,
+    "name": "Apple Watch SE",
+    "price": 10000,
+    "category": "smartwatch",
+    "brand": "Apple",
+    "image": "https://via.placeholder.com/200",
+    "description": "Affordable smartwatch"
+  }
+]
